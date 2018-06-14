@@ -2,7 +2,7 @@
 
 
 def hello_world(**unexpanded_kw_args):
-    """ This is a function and it's doc-string.  You can reference the text of
+    """ This is a function and its doc-string.  You can reference the text of
     this docstring like this:
 
         >>> print hello_world.__doc__
